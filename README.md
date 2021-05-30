@@ -12,5 +12,7 @@ with Logistic Regression as the final estimator
 
 # Results
 The best submission (multi-stacked-classifier.csv) of our model performed with an accuracy of
+
 0.82765 - Public Leaderboard
+
 0.80790 - Private Leaderboard
