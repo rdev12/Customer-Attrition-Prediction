@@ -2,7 +2,8 @@
 In this competition, hosted by IIT-KGP's KDAG (Kharagpur Data Analytics Group) we are tasked to create data science models to predict the customer attrition for a service based on data such as a customer's general bio-data, their payment history and subscriptions.
 
 The details of the competition can be found here: [Kaggle](https://www.kaggle.com/c/customerattritionprediction/overview)
-The Kaggle notebook can be found here: []()
+
+The Kaggle notebook can be found here: [Notebook](https://www.kaggle.com/rdev12/customer-attrition)
 
 # Data
 "ID", string, the Customer ID allocated to each customer,
